@@ -1,0 +1,10 @@
+#!/bin/bash
+name="Angela" 
+echo my name is $name
+echo "The time and date is:"
+date
+echo Today is $(date '+%A')
+username="Anfor35"
+echo The system username is $username
+
+
