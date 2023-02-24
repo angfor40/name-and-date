@@ -6,5 +6,7 @@ date
 echo Today is $(date '+%A')
 username="Anfor35"
 echo The system username is $username
+age=35
+echo "My age is $age."
 
 
